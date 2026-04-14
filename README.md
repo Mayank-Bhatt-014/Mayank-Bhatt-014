@@ -10,7 +10,7 @@
 I'm a second-year Computer Science student passionate about building real-world applications.
 I specialize in full-stack development and have hands-on experience with blockchain technologies.
 
-🏆 Hackathon Winner| 💻 100+ LeetCode Problems Solved
+🏆 Hackathon Runner-Up | 💻 100+ LeetCode Problems Solved
 
 ---
 
