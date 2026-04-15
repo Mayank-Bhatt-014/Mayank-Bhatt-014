@@ -10,7 +10,7 @@
 I'm a second-year Computer Science student passionate about building real-world applications.
 I specialize in full-stack development and have hands-on experience with blockchain technologies.
 
-🏆 Hackathon Runner-Up |  💻 100+ LeetCode Problems Solved
+🏆 Hackathon Runner-Up |  💻 120+ LeetCode Problems Solved
 
 ---
 
@@ -77,7 +77,7 @@ A simple and efficient task management application built using JavaScript.
 
 ## 📊 DSA & Problem Solving
 
-* Solved **100+ LeetCode problems**
+* Solved **120+ LeetCode problems**
 * Strong understanding of **Data Structures & Algorithms**
 * Regular practice of arrays, trees, graphs, and dynamic programming
 
