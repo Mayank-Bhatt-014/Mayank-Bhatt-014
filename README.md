@@ -1,8 +1,6 @@
 # Hi, I'm Mayank Bhatt 👋
 
-🚀 Full Stack Developer | Blockchain Enthusiast
-🎓 B.Tech CSE @ SEA College of Engineering (CGPA: 8.8)
-
+🚀 Full Stack Developer | Blockchain Enthusiast | AI-Assisted Builder 🎓 B.Tech CSE @ SEA College of Engineering (CGPA: 8.8)
 ---
 
 ## 🧠 About Me
