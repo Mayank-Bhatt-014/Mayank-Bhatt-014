@@ -1,102 +1,18 @@
-# Hi, I'm Mayank Bhatt 👋
+# 💫 About Me:
+Hi, I'm Mayank Bhatt 👋<br>🚀 Full Stack Developer | Blockchain Enthusiast | 🤖 AI-Augmented Dev 🎓 B.Tech CSE @ SEA College of Engineering (CGPA: 8.8)<br>🧠 About Me<br>I'm a second-year Computer Science student passionate about building real-world applications. I specialize in full-stack development and have hands-on experience with blockchain technologies.<br><br>🏆 Hackathon Runner-Up | 💻 120+ LeetCode Problems Solved<br><br>💻 Tech Stack<br>Languages: C++, JavaScript, Python<br><br>Frontend: HTML, CSS, Bootstrap, EJS<br><br>Backend: Node.js, Express.js<br><br>Database: MongoDB, SQL<br><br>Blockchain: Solidity, Web3.js, Ethers.js<br><br>Tools & Technologies: Git, GitHub, VS Code, REST APIs, MVC Architecture<br><br>🚀 Featured Projects<br>🏡 Airbnb Clone (Full Stack)<br>A production-grade Airbnb-style platform built using MEEN stack.<br><br>🔹 Secure authentication & role-based authorization (Passport.js) 🔹 CRUD operations for property listings 🔹 Image uploads, reviews & star ratings 🔹 Mapbox integration for location-based discovery 🔹 Search & filtering system 🔹 Fully deployed using Render & MongoDB Atlas<br><br>🌐 Live Demo: https://airbnbproject-pnwv.onrender.com/listings 💻 GitHub: https://github.com/Mayank-Bhatt-014/AirbnbProject<br><br>🔗 Decentralized Trading dApp<br>🏆 2nd Place - Flare Blockchain Hackathon<br><br>🔹 Built a fully on-chain trading application 🔹 MetaMask wallet integration for authentication 🔹 Smart contracts for secure transactions 🔹 Real-time price data using Flare FTSO 🔹 Implemented hedging mechanism for risk management<br><br>📝 Task Manager App<br>A simple and efficient task management application built using JavaScript.<br><br>🔹 Add, update, and delete tasks 🔹 Clean UI and responsive design<br><br>📊 DSA & Problem Solving<br>Solved 120+ LeetCode problems<br>Strong understanding of Data Structures & Algorithms<br>Regular practice of arrays, trees, graphs, and dynamic programming<br>📈 Current Focus<br>📚 Mastering DSA for top tech companies<br>⚡ Building scalable full-stack applications<br>🤖 Exploring AI-based projects<br>📫 Connect With Me<br>📧 Email: me.mayankbhatt014@gmail.com 💼 LinkedIn: https://linkedin.com/in/mayank-bhatt-007015382 🐙 GitHub: https://github.com/Mayank-Bhatt-014<br><br>⚡ Fun Fact<br>I enjoy turning ideas into real-world products.
 
-🚀 Full Stack Developer | Blockchain Enthusiast | 🤖 AI-Augmented Dev 🎓 B.Tech CSE @ SEA College of Engineering (CGPA: 8.8)
----
 
-## 🧠 About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mayank-bhatt-007015382/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me.mayankbhatt014@gmail.com) 
 
-I'm a second-year Computer Science student passionate about building real-world applications.
-I specialize in full-stack development and have hands-on experience with blockchain technologies.
+# 💻 Tech Stack:
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mayank-Bhatt-014&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mayank-Bhatt-014&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mayank-Bhatt-014&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🏆 Hackathon Runner-Up |  💻 120+ LeetCode Problems Solved
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-
-## 💻 Tech Stack
-
-**Languages:**
-C++, JavaScript, Python
-
-**Frontend:**
-HTML, CSS, Bootstrap, EJS
-
-**Backend:**
-Node.js, Express.js
-
-**Database:**
-MongoDB, SQL
-
-**Blockchain:**
-Solidity, Web3.js, Ethers.js
-
-**Tools & Technologies:**
-Git, GitHub, VS Code, REST APIs, MVC Architecture
-
----
-
-## 🚀 Featured Projects
-
-### 🏡 Airbnb Clone (Full Stack)
-
-A production-grade Airbnb-style platform built using MEEN stack.
-
-🔹 Secure authentication & role-based authorization (Passport.js)
-🔹 CRUD operations for property listings
-🔹 Image uploads, reviews & star ratings
-🔹 Mapbox integration for location-based discovery
-🔹 Search & filtering system
-🔹 Fully deployed using Render & MongoDB Atlas
-
-🌐 **Live Demo:** https://airbnbproject-pnwv.onrender.com/listings
-💻 **GitHub:** https://github.com/Mayank-Bhatt-014/AirbnbProject
-
----
-
-### 🔗 Decentralized Trading dApp
-
-🏆 **2nd Place - Flare Blockchain Hackathon**
-
-🔹 Built a fully on-chain trading application
-🔹 MetaMask wallet integration for authentication
-🔹 Smart contracts for secure transactions
-🔹 Real-time price data using Flare FTSO
-🔹 Implemented hedging mechanism for risk management
-
----
-
-### 📝 Task Manager App
-
-A simple and efficient task management application built using JavaScript.
-
-🔹 Add, update, and delete tasks
-🔹 Clean UI and responsive design
-
----
-
-## 📊 DSA & Problem Solving
-
-* Solved **120+ LeetCode problems**
-* Strong understanding of **Data Structures & Algorithms**
-* Regular practice of arrays, trees, graphs, and dynamic programming
-
----
-
-## 📈 Current Focus
-
-* 📚 Mastering DSA for top tech companies
-* ⚡ Building scalable full-stack applications
-* 🤖 Exploring AI-based projects
-
----
-
-## 📫 Connect With Me
-
-📧 Email: [me.mayankbhatt014@gmail.com](mailto:me.mayankbhatt014@gmail.com)
-💼 LinkedIn: https://linkedin.com/in/mayank-bhatt-007015382
-🐙 GitHub: https://github.com/Mayank-Bhatt-014
-
----
-
-## ⚡ Fun Fact
-
-I enjoy turning ideas into real-world products.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
